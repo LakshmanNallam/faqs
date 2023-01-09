@@ -1,0 +1,26 @@
+.FaqItem {
+  width: 80%;
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  list-style-type: none;
+}
+.queCon {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 13px;
+  padding-right: 13px;
+  color: #52606d;
+  font-weight: bold;
+}
+.btn {
+  background-color: white;
+  border-style: none;
+}
+.ansCon {
+  font-size: 13px;
+  color: #52606d;
+  padding-left: 13px;
+  padding-right: 13px;
+}
